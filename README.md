@@ -5,3 +5,11 @@ YOLOv8 & YOLOv9 Implementation: Comparative analysis of both models for PPE dete
 Dataset Processing: Image acquisition, preprocessing, and annotation using Roboflow.
 Model Training & Evaluation: Performance analysis using precision, recall, F1-score, and mAP.
 Real-Time Detection: Optimized for real-time object detection applications.
+Technologies Used
+Python
+TensorFlow & PyTorch
+OpenCV
+Roboflow
+Google Colab & Amazon SageMaker
+Results
+YOLOv9 demonstrated slightly better accuracy, while YOLOv8 had superior inference speed, making it more suitable for real-time applications.
