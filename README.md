@@ -13,3 +13,8 @@ Roboflow
 Google Colab & Amazon SageMaker
 Results
 YOLOv9 demonstrated slightly better accuracy, while YOLOv8 had superior inference speed, making it more suitable for real-time applications.
+Project Structure
+/data - Dataset & annotations
+/models - Trained YOLOv8 & YOLOv9 models
+/scripts - Training, validation, and inference scripts
+/results - Performance metrics and visualization
