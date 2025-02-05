@@ -18,3 +18,7 @@ Project Structure
 /models - Trained YOLOv8 & YOLOv9 models
 /scripts - Training, validation, and inference scripts
 /results - Performance metrics and visualization
+Future Scope
+Enhancing dataset diversity for better generalization
+Optimizing models for edge computing applications
+Integrating real-time monitoring systems for construction sites
